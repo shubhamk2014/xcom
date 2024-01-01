@@ -1,0 +1,119 @@
+{
+    "_isError": false,
+    "_code": 200,
+    "_message": "success",
+    "_result": {
+        "marketList": [
+            {
+                "value": "US",
+                "label": "US"
+            }
+        ],
+        "retailerList": [
+            {
+                "value": "Walmart",
+                "label": "Walmart"
+            },
+            {
+                "value": "InstaCart",
+                "label": "InstaCart"
+            },
+            {
+                "value": "Kroger",
+                "label": "Kroger"
+            },
+            {
+                "value": "Sams Club",
+                "label": "Sams Club"
+            },
+            {
+                "value": "Target",
+                "label": "Target"
+            },
+            {
+                "value": "Amazon",
+                "label": "Amazon"
+            }
+        ],
+        "categoryList": [
+            {
+                "value": "Hair Care",
+                "label": "Hair Care"
+            },
+            {
+                "value": "Dish Wash",
+                "label": "Dish Wash"
+            },
+            {
+                "value": "Skin Care",
+                "label": "Skin Care"
+            },
+            {
+                "value": "Detergent",
+                "label": "Detergent"
+            },
+            {
+                "value": "Home Care",
+                "label": "Home Care"
+            },
+            {
+                "value": "Baby Care",
+                "label": "Baby Care"
+            },
+            {
+                "value": "Fem Care",
+                "label": "Fem Care"
+            },
+            {
+                "value": "Hand Wash",
+                "label": "Hand Wash"
+            }
+        ],
+        "brandList": [
+            {
+                "value": "Magic",
+                "label": "Magic"
+            },
+            {
+                "value": "New Spice",
+                "label": "New Spice"
+            },
+            {
+                "value": "Johnty",
+                "label": "Johnty"
+            },
+            {
+                "value": "Relay",
+                "label": "Relay"
+            },
+            {
+                "value": "John",
+                "label": "John"
+            },
+            {
+                "value": "Fresh",
+                "label": "Fresh"
+            },
+            {
+                "value": "Riverstone",
+                "label": "Riverstone"
+            },
+            {
+                "value": "Skyline",
+                "label": "Skyline"
+            },
+            {
+                "value": "Solo",
+                "label": "Solo"
+            },
+            {
+                "value": "Liberty",
+                "label": "Liberty"
+            },
+            {
+                "value": "BlueSky",
+                "label": "BlueSky"
+            }
+        ]
+    }
+}
