@@ -2,10 +2,10 @@ const express = require('express');
 const ExcelJS = require('exceljs');
 
 const app = express();
-const port = 3000;
+const port = 3001;
 
 app.get('/read-excel', (req, res) => {
-  const filePath = 'C:/Users/Shubham.Kumbhar/Nodejs/Chartdata.xlsx';
+  const filePath = 'Chartdata.xlsx';
 
   const workbook = new ExcelJS.Workbook();
 
